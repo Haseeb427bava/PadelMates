@@ -1,0 +1,13 @@
+{
+    "validUser": {
+      "username": "automation@automation.com",
+      "password": "automation"
+    },
+    "invalidUser": {
+      "username": "invaliduser",
+      "password": "wrongpassword"
+    },
+    "baseURL": {
+      "link": "https://portal-dev.padelmates.io/"
+    }
+  }

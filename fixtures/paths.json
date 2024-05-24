@@ -1,0 +1,17 @@
+
+  {
+
+    "button": {
+      "path": "button[type='submit']"
+    },
+    "locators": {
+      "email": "#email",
+      "password": "#password",
+      "languageSelect":"//button[normalize-space()='ENGLISH']",
+      "addCalendar":"tbody tr:nth-child(9) td:nth-child(2)",
+      "chooseActivityDropDown":"#selectActivityTypeDropdown",
+      "pedalmatesimg":"img[alt='Padel mates logo']"
+    }    
+    
+    
+  }
